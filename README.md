@@ -5,6 +5,19 @@ Cada verso k'iche' lleva al lado su traducción, y los números de verso son los
 
 Aquí se puede **leer y bajar todo gratis**.
 
+## In English
+
+**The complete Popol Wuj in verse, with the K'iche' Maya text and a Spanish translation facing each other.** Verse numbers are those of Allen J. Christenson. Free to read and download: PDF and EPUB, plus a *Cuaderno de lectura* (reading notebook, in Spanish) with the translation criteria, notes and glossary.
+
+**Credits**
+
+- **K'iche' text:** K'iche' text in modern orthography transcribed by Allen J. Christenson, from *Popol Vuh: Literal Poetic Version. Translation and Transcription* (electronic edition, Mesoweb, 2007). Used by permission of the author. The K'iche' text remains under his copyright and is not covered by the CC BY license. See [`NOTICE-Christenson.md`](NOTICE-Christenson.md).
+- **Spanish translation, notes and Cuaderno de lectura:** Alberto Muñoz, licensed under CC BY 4.0 (see [`LICENSE.md`](LICENSE.md)).
+- **Reading alongside Christenson's edition:** the verse numbers are the same as in his PDF, which is on his official Mesoweb page (linked below, not hosted here): <https://www.mesoweb.com/publications/Christenson/PV-Literal.pdf>
+- **AI assistance:** the translation was made with the assistance of Claude, an AI tool by Anthropic, for cross-checking and review. Selection, interpretation and final responsibility are the author's.
+
+*(Instrucciones y detalles en español, abajo.)*
+
 ## Qué hay en este repositorio
 
 | Archivo | Qué es |
