@@ -1,20 +1,28 @@
 cff-version: 1.2.0
 message: "Si usas esta edición, cítala así. El texto k'iche' es de Allen J. Christenson (ver NOTICE-Christenson.md)."
 title: "Popol Wuj. El Libro de la Comunidad. Traducción en verso, del k'iche' al español"
-type: book
 authors:
   - family-names: "Muñoz"
     given-names: "Alberto"
 license: CC-BY-4.0
 date-released: 2026-11-24
 repository-code: "https://github.com/ElLibero/popol-wuj"
-language: spa
 keywords:
   - Popol Wuj
   - Popol Vuh
   - k'iche'
   - maya
   - traducción bilingüe
+preferred-citation:
+  type: book
+  title: "Popol Wuj. El Libro de la Comunidad. Traducción en verso, del k'iche' al español"
+  authors:
+    - family-names: "Muñoz"
+      given-names: "Alberto"
+  year: 2026
+  languages:
+    - spa
+  url: "https://github.com/ElLibero/popol-wuj"
 references:
   - type: book
     title: "Popol Vuh: Literal Poetic Version. Translation and Transcription"
