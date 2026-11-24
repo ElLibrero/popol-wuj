@@ -6,7 +6,7 @@ authors:
     given-names: "Alberto"
 license: CC-BY-4.0
 date-released: 2026-11-24
-repository-code: "https://github.com/ElLibero/popol-wuj"
+repository-code: "https://github.com/ElLibrero/popol-wuj"
 keywords:
   - Popol Wuj
   - Popol Vuh
@@ -22,7 +22,7 @@ preferred-citation:
   year: 2026
   languages:
     - spa
-  url: "https://github.com/ElLibero/popol-wuj"
+  url: "https://github.com/ElLibrero/popol-wuj"
 references:
   - type: book
     title: "Popol Vuh: Literal Poetic Version. Translation and Transcription"
