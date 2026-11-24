@@ -20,14 +20,16 @@ Aquí se puede **leer y bajar todo gratis**.
 
 ## Qué hay en este repositorio
 
-| Archivo | Qué es |
-|---|---|
-| [`Popol_Wuj.pdf`](Popol_Wuj.pdf) | El libro completo, con tapa, para leer en pantalla. |
-| [`Popol_Wuj.epub`](Popol_Wuj.epub) | El mismo libro para celulares y lectores digitales (Kindle app, Apple Books, Calibre). |
-| [`Cuaderno_de_lectura.pdf`](Cuaderno_de_lectura.pdf) | El *Cuaderno de lectura del Popol Wuj*: criterios de la traducción, notas, glosario y bibliografía. |
-| [`Cuaderno_de_lectura.epub`](Cuaderno_de_lectura.epub) | El Cuaderno, para celulares y lectores digitales. |
-| [`LICENSE.md`](LICENSE.md) | Qué se puede hacer con la traducción y las notas. |
-| [`NOTICE-Christenson.md`](NOTICE-Christenson.md) | El texto k'iche': de quién es y bajo qué permiso se reproduce. |
+| Archivo | Qué es | Descargar |
+|---|---|---|
+| [`Popol_Wuj.pdf`](Popol_Wuj.pdf) | El libro completo, con tapa, para leer en pantalla. | [Bajar PDF](https://github.com/ElLibrero/popol-wuj/raw/main/Popol_Wuj.pdf) |
+| `Popol_Wuj.epub` | El mismo libro para celulares y lectores digitales (Kindle app, Apple Books, Calibre). | [Bajar EPUB](https://github.com/ElLibrero/popol-wuj/raw/main/Popol_Wuj.epub) |
+| [`Cuaderno_de_lectura.pdf`](Cuaderno_de_lectura.pdf) | El *Cuaderno de lectura del Popol Wuj*: criterios de la traducción, notas, glosario y bibliografía. | [Bajar PDF](https://github.com/ElLibrero/popol-wuj/raw/main/Cuaderno_de_lectura.pdf) |
+| `Cuaderno_de_lectura.epub` | El Cuaderno, para celulares y lectores digitales. | [Bajar EPUB](https://github.com/ElLibrero/popol-wuj/raw/main/Cuaderno_de_lectura.epub) |
+| [`LICENSE.md`](LICENSE.md) | Qué se puede hacer con la traducción y las notas. | |
+| [`NOTICE-Christenson.md`](NOTICE-Christenson.md) | El texto k'iche': de quién es y bajo qué permiso se reproduce. | |
+
+**Sobre los EPUB:** GitHub no los abre en la página; se **bajan** con el enlace «Bajar EPUB» y se abren en el programa de lectura del aparato (Apple Books, Kindle, Calibre, o la app de libros del celular). *EPUB files do not open inside GitHub: use the "Bajar EPUB" link to download them, then open them in Apple Books, Calibre or any e-reader app.*
 
 Versiones actuales: **Popol Wuj, edición 172** y **Cuaderno de lectura, edición 122**.
 
